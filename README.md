@@ -27,6 +27,10 @@ PHP
  * [api-php-client](https://github.com/shutterstock/api-php-client)
  * [shutterstock-php-client](https://github.com/bbaisley/shutterstock-php-client)
 
+R
+
+ * [shutterstock-r](https://github.com/strboul/shutterstock-r) (MIT)
+
 Ruby
 
  * [ruby-shutterstock-api](https://github.com/shutterstock/ruby-shutterstock-api)
